@@ -11,6 +11,7 @@
             //matame
 =======
             Console.WriteLine("YOOOYOYOYOYOYOYOYOYOOOOOYOYOYOYOYOYO");
+            Console.Write("pene")
 >>>>>>> refs/remotes/origin/main
         }
     }
