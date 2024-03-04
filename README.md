@@ -13,6 +13,6 @@ boobass
 >>>>>>> refs/remotes/origin/main
 
 
-Conflicto 4
+Conflicto 4.
 
 parte 7
