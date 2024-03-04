@@ -10,7 +10,7 @@ qEUHGpwiugrwoigrwo
 OLEEEEEEEE
 boobass
 
-
+Nueva Funcionalidad añadida: asteriscos
 
 
 Conflicto 4.
