@@ -1,0 +1,14 @@
+C:\Users\Cesar\Downloads\practica2\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\Cesar\Downloads\practica2\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\Cesar\Downloads\practica2\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Cesar\Downloads\practica2\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Cesar\Downloads\practica2\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Cesar\Downloads\practica2\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\Downloads\practica2\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Cesar\Downloads\practica2\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Cesar\Downloads\practica2\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\Downloads\practica2\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Cesar\Downloads\practica2\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\Cesar\Downloads\practica2\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Cesar\Downloads\practica2\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Cesar\Downloads\practica2\obj\Debug\net6.0\ref\ConsoleApp1.dll
